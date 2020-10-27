@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>参数</title>
     <!-- 加载Query文件-->
-    <script src="../lib/jquery-3.5.1.js"></script>
+    <script src="WEB-INF/lib/jquery-3.5.1.js"></script>
     <!--
             此处插入JavaScript脚本
     -->

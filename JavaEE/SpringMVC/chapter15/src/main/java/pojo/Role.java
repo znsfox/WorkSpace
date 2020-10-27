@@ -1,5 +1,11 @@
 package pojo;
 
+
+import org.springframework.beans.factory.annotation.Value;
+
+/**
+ * @author fox
+ */
 public class Role {
 
     private Long id;

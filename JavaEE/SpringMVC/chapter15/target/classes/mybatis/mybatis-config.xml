@@ -4,6 +4,6 @@
 
     <!-- 指定映射器路径 -->
     <mappers>
-        <mapper resource="com/ssm/chapter15/mapper/RoleMapper.xml" />
+        <mapper resource="mapper/RoleMapper.xml" />
     </mappers>
 </configuration>

@@ -10,7 +10,7 @@
     <!-- 使用注解驱动 MVC-->
     <mvc:annotation-driven />
     <!-- 定义扫描装载的包 -->
-    <context:component-scan base-package="controller,mapper,mybatis,pojo,service" />
+    <context:component-scan base-package="controller,dao,interceptor,mapper,mybatis,pojo,service" />
     <!-- 定义视图解析器 -->
     <!-- 找到Web工程/WEB-INF/JSP文件夹，且文件结尾为jsp的文件作为映射 -->
     <bean id="viewResolver"

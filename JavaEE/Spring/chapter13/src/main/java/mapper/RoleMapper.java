@@ -10,10 +10,8 @@ import pojo.Role;
  * @date: 2020/10/4 9:55
  */
 
-//@Repository
+@Repository
 public interface RoleMapper {
     public int insertRole(Role role);
-    public Role getRole(@Param("id") Long id);
-    public int deleteRole(@Param("id") Long id);
-    public Role updateRole(Role role);
+
 }

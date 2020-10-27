@@ -1,5 +1,6 @@
 package service;
 
+
 import pojo.Role;
 
 /**
@@ -9,5 +10,5 @@ import pojo.Role;
  */
 public interface RoleService {
 /** */
-    public int insertRole(Role role);
+    public Role getRole(Long id);
 }

@@ -1,8 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="C__" targetName="C__" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77d54aed-d938-4032-a071-a7514e07a852" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../C/algorithm/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/algorithm/.idea/algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/algorithm/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/algorithm/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/algorithm/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/algorithm/test.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/algorithm/test1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C__.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C__.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C__.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C__.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C__.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C__.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/C__.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/C__.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/chapter13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/chapter13.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/java/mapper/RoleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/java/mapper/RoleMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/java/service/RoleListService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/java/service/RoleListService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/java/service/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/java/service/RoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/java/service/impl/RoleListServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/java/service/impl/RoleListServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/java/service/impl/RoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/java/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/resources/mybatis/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/resources/spring-cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/resources/spring-cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/resources/sqlMapper/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/main/resources/sqlMapper/RoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/test/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/Spring/chapter13/src/test/java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/.idea/artifacts/chapter15_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/.idea/artifacts/chapter15_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/chapter15.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/chapter15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/out/artifacts/chapter15_war_exploded/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/out/artifacts/chapter15_war_exploded/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/out/artifacts/chapter15_war_exploded/WEB-INF/classes/controller/ParamsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/out/artifacts/chapter15_war_exploded/WEB-INF/classes/mybatis/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/out/artifacts/chapter15_war_exploded/WEB-INF/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/out/artifacts/chapter15_war_exploded/WEB-INF/classes/pojo/RoleParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/out/artifacts/chapter15_war_exploded/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/out/artifacts/chapter15_war_exploded/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/out/artifacts/chapter15_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/out/artifacts/chapter15_war_exploded/params.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/out/artifacts/chapter15_war_exploded/params.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/java/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/java/controller/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/java/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/java/controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/java/dao/RoleDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/java/dao/RoleDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/java/interceptor/RoleInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/java/interceptor/RoleInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/java/pojo/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/java/pojo/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/java/service/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/java/service/RoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/java/service/impl/RoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/java/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/resources/mapper/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/resources/mapper/RoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/resources/mybatis/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/target/classes/controller/ParamsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/target/classes/mybatis/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/target/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/target/classes/pojo/RoleParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/target/classes/service/impl/RoleServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/target/classes/service/impl/RoleServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/web/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/web/WEB-INF/jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/web/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/web/WEB-INF/jsp/roleDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/web/WEB-INF/jsp/roleDetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/web/params.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaEE/SpringMVC/chapter15/web/params.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blogs/other.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../blogs/other.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blogs/一些在编程中用到的.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../blogs/一些在编程中用到的.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jB5lpA4yKzoZ0dwMSGaIOAm3Kz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="C__" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C__" TARGET_NAME="C__" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C__" RUN_TARGET_NAME="C__">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77d54aed-d938-4032-a071-a7514e07a852" name="Default Changelist" comment="" />
+      <created>1603264798218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603264798218</updated>
+      <workItem from="1603264799627" duration="1228000" />
+      <workItem from="1603278850850" duration="2153000" />
+      <workItem from="1603328817994" duration="9827000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1093" height="613" key="DiffContextDialog" timestamp="1603279406615">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="93" y="93" width="1093" height="613" key="DiffContextDialog/0.0.1280.800@0.0.1280.800" timestamp="1603279406615" />
+    <state width="1238" height="195" key="GridCell.Tab.0.bottom" timestamp="1603281568470">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="207" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1603266262512" />
+    <state width="1238" height="195" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603281568470" />
+    <state width="1238" height="195" key="GridCell.Tab.0.center" timestamp="1603281568470">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="207" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1603266262509" />
+    <state width="1238" height="195" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603281568470" />
+    <state width="1238" height="195" key="GridCell.Tab.0.left" timestamp="1603281568470">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="207" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1603266262508" />
+    <state width="1238" height="195" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603281568470" />
+    <state width="1238" height="195" key="GridCell.Tab.0.right" timestamp="1603281568470">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="207" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1603266262510" />
+    <state width="1238" height="195" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603281568470" />
   </component>
 </project>
