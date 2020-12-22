@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fox/Desktop/WorkSpace/CLion/syntacticAnalysis/test.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+C:/Users/fox/Desktop/WorkSpace/CLion/syntacticAnalysis/stdlib.h
+string.h
+C:/Users/fox/Desktop/WorkSpace/CLion/syntacticAnalysis/string.h
+

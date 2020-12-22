@@ -1,0 +1,6 @@
+C:/Users/fox/Desktop/WorkSpace/CLion/algorithm/cmake-build-debug/CMakeFiles/baseball-game.dir
+C:/Users/fox/Desktop/WorkSpace/CLion/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir
+C:/Users/fox/Desktop/WorkSpace/CLion/algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fox/Desktop/WorkSpace/CLion/algorithm/cmake-build-debug/CMakeFiles/backspace-string-compare.dir
+C:/Users/fox/Desktop/WorkSpace/CLion/algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/fox/Desktop/WorkSpace/CLion/algorithm/cmake-build-debug/CMakeFiles/test.dir

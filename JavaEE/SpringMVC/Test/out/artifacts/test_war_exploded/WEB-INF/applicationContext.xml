@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:tx="http://www.springframework.org/schema/tx" xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!-- Enable the scanning mechanism and specify the corresponding package to scan-->
+    <context:annotation-config />
+    <!-- Database connection pool-->
+    <bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource">
+        <!-- collaborators and configuration for this bean go here -->
+        <property name="driverClassName" value="com.mysql.cj.jdbc.Driver"/>
+        <property name="url" value="jdbc:mysql://localhost:3306/chapter15?serverTimezone=UTC"/>
+        <property name="password" value="root"/>
+        <property name="username" value="root"/>
+        <property name="maxTotal" value="200"/>
+        <property name="maxIdle" value="5"/>
+        <property name="maxWaitMillis" value="10000"/>
+    </bean>
+
+    <!--    integrate mybatis -->
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="dataSource" ref="dataSource" />
+        <property name="configLocation" value="classpath:/mybatis/mybatis-config.xml" />
+    </bean>
+
+    <!--TransactionManager config the Datasource transaction-->
+    <bean id="transactionManager"
+          class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="dataSource"/>
+    </bean>
+
+    <!--    use annotation to define transaction-->
+    <tx:annotation-driven transaction-manager="transactionManager"/>
+
+    <!--    create mapper bean using automatic scanning-->
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <property name="basePackage" value="mapper"/>
+        <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"/>
+        <property name="annotationClass" value="org.springframework.stereotype.Repository"/>
+    </bean>
+
+
+</beans>

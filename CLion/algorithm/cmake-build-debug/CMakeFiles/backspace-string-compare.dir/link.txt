@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\backspace-string-compare.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\backspace-string-compare.dir/objects.a @CMakeFiles\backspace-string-compare.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\backspace-string-compare.dir/objects.a -Wl,--no-whole-archive  -o backspace-string-compare.exe -Wl,--out-implib,libbackspace-string-compare.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\backspace-string-compare.dir\linklibs.rsp

@@ -1,0 +1,4 @@
+C:/Users/fox/Desktop/WorkSpace/CLion/syntacticAnalysis/cmake-build-debug/CMakeFiles/syntacticAnalysis.dir
+C:/Users/fox/Desktop/WorkSpace/CLion/syntacticAnalysis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/fox/Desktop/WorkSpace/CLion/syntacticAnalysis/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/fox/Desktop/WorkSpace/CLion/syntacticAnalysis/cmake-build-debug/CMakeFiles/edit_cache.dir

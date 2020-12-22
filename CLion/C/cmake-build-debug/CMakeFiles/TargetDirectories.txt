@@ -1,3 +1,7 @@
+C:/Users/fox/Desktop/WorkSpace/CLion/C/cmake-build-debug/CMakeFiles/3.2.dir
 C:/Users/fox/Desktop/WorkSpace/CLion/C/cmake-build-debug/CMakeFiles/C.dir
-C:/Users/fox/Desktop/WorkSpace/CLion/C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fox/Desktop/WorkSpace/CLion/C/cmake-build-debug/CMakeFiles/ListTest.dir
+C:/Users/fox/Desktop/WorkSpace/CLion/C/cmake-build-debug/CMakeFiles/stack.dir
 C:/Users/fox/Desktop/WorkSpace/CLion/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/fox/Desktop/WorkSpace/CLion/C/cmake-build-debug/CMakeFiles/tree.dir
+C:/Users/fox/Desktop/WorkSpace/CLion/C/cmake-build-debug/CMakeFiles/edit_cache.dir

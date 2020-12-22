@@ -75,17 +75,6 @@ CMAKE_BINARY_DIR = C:\Users\fox\Desktop\WorkSpace\CLion\C\cmake-build-debug
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target edit_cache
-edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
-.PHONY : edit_cache
-
-# Special rule for the target edit_cache
-edit_cache/fast: edit_cache
-
-.PHONY : edit_cache/fast
-
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
@@ -96,6 +85,17 @@ rebuild_cache:
 rebuild_cache/fast: rebuild_cache
 
 .PHONY : rebuild_cache/fast
+
+# Special rule for the target edit_cache
+edit_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+	"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+.PHONY : edit_cache
+
+# Special rule for the target edit_cache
+edit_cache/fast: edit_cache
+
+.PHONY : edit_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -130,6 +130,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named 3.2
+
+# Build rule for target.
+3.2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 3.2
+.PHONY : 3.2
+
+# fast build rule for target.
+3.2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3.2.dir\build.make CMakeFiles/3.2.dir/build
+.PHONY : 3.2/fast
+
+#=============================================================================
 # Target rules for targets named C
 
 # Build rule for target.
@@ -141,6 +154,105 @@ C : cmake_check_build_system
 C/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\C.dir\build.make CMakeFiles/C.dir/build
 .PHONY : C/fast
+
+#=============================================================================
+# Target rules for targets named ListTest
+
+# Build rule for target.
+ListTest: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ListTest
+.PHONY : ListTest
+
+# fast build rule for target.
+ListTest/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ListTest.dir\build.make CMakeFiles/ListTest.dir/build
+.PHONY : ListTest/fast
+
+#=============================================================================
+# Target rules for targets named stack
+
+# Build rule for target.
+stack: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 stack
+.PHONY : stack
+
+# fast build rule for target.
+stack/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stack.dir\build.make CMakeFiles/stack.dir/build
+.PHONY : stack/fast
+
+#=============================================================================
+# Target rules for targets named tree
+
+# Build rule for target.
+tree: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 tree
+.PHONY : tree
+
+# fast build rule for target.
+tree/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tree.dir\build.make CMakeFiles/tree.dir/build
+.PHONY : tree/fast
+
+ListTest.obj: ListTest.c.obj
+
+.PHONY : ListTest.obj
+
+# target to build an object file
+ListTest.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C.dir\build.make CMakeFiles/C.dir/ListTest.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ListTest.dir\build.make CMakeFiles/ListTest.dir/ListTest.c.obj
+.PHONY : ListTest.c.obj
+
+ListTest.i: ListTest.c.i
+
+.PHONY : ListTest.i
+
+# target to preprocess a source file
+ListTest.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C.dir\build.make CMakeFiles/C.dir/ListTest.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ListTest.dir\build.make CMakeFiles/ListTest.dir/ListTest.c.i
+.PHONY : ListTest.c.i
+
+ListTest.s: ListTest.c.s
+
+.PHONY : ListTest.s
+
+# target to generate assembly for a file
+ListTest.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C.dir\build.make CMakeFiles/C.dir/ListTest.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ListTest.dir\build.make CMakeFiles/ListTest.dir/ListTest.c.s
+.PHONY : ListTest.c.s
+
+chapter3_exercise/3.2.obj: chapter3_exercise/3.2.c.obj
+
+.PHONY : chapter3_exercise/3.2.obj
+
+# target to build an object file
+chapter3_exercise/3.2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3.2.dir\build.make CMakeFiles/3.2.dir/chapter3_exercise/3.2.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C.dir\build.make CMakeFiles/C.dir/chapter3_exercise/3.2.c.obj
+.PHONY : chapter3_exercise/3.2.c.obj
+
+chapter3_exercise/3.2.i: chapter3_exercise/3.2.c.i
+
+.PHONY : chapter3_exercise/3.2.i
+
+# target to preprocess a source file
+chapter3_exercise/3.2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3.2.dir\build.make CMakeFiles/3.2.dir/chapter3_exercise/3.2.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C.dir\build.make CMakeFiles/C.dir/chapter3_exercise/3.2.c.i
+.PHONY : chapter3_exercise/3.2.c.i
+
+chapter3_exercise/3.2.s: chapter3_exercise/3.2.c.s
+
+.PHONY : chapter3_exercise/3.2.s
+
+# target to generate assembly for a file
+chapter3_exercise/3.2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\3.2.dir\build.make CMakeFiles/3.2.dir/chapter3_exercise/3.2.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C.dir\build.make CMakeFiles/C.dir/chapter3_exercise/3.2.c.s
+.PHONY : chapter3_exercise/3.2.c.s
 
 main.obj: main.c.obj
 
@@ -169,6 +281,60 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\C.dir\build.make CMakeFiles/C.dir/main.c.s
 .PHONY : main.c.s
 
+stack/stack.obj: stack/stack.c.obj
+
+.PHONY : stack/stack.obj
+
+# target to build an object file
+stack/stack.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stack.dir\build.make CMakeFiles/stack.dir/stack/stack.c.obj
+.PHONY : stack/stack.c.obj
+
+stack/stack.i: stack/stack.c.i
+
+.PHONY : stack/stack.i
+
+# target to preprocess a source file
+stack/stack.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stack.dir\build.make CMakeFiles/stack.dir/stack/stack.c.i
+.PHONY : stack/stack.c.i
+
+stack/stack.s: stack/stack.c.s
+
+.PHONY : stack/stack.s
+
+# target to generate assembly for a file
+stack/stack.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stack.dir\build.make CMakeFiles/stack.dir/stack/stack.c.s
+.PHONY : stack/stack.c.s
+
+tree/tree.obj: tree/tree.c.obj
+
+.PHONY : tree/tree.obj
+
+# target to build an object file
+tree/tree.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tree.dir\build.make CMakeFiles/tree.dir/tree/tree.c.obj
+.PHONY : tree/tree.c.obj
+
+tree/tree.i: tree/tree.c.i
+
+.PHONY : tree/tree.i
+
+# target to preprocess a source file
+tree/tree.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tree.dir\build.make CMakeFiles/tree.dir/tree/tree.c.i
+.PHONY : tree/tree.c.i
+
+tree/tree.s: tree/tree.c.s
+
+.PHONY : tree/tree.s
+
+# target to generate assembly for a file
+tree/tree.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tree.dir\build.make CMakeFiles/tree.dir/tree/tree.c.s
+.PHONY : tree/tree.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -177,10 +343,26 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... 3.2
 	@echo ... C
+	@echo ... ListTest
+	@echo ... stack
+	@echo ... tree
+	@echo ... ListTest.obj
+	@echo ... ListTest.i
+	@echo ... ListTest.s
+	@echo ... chapter3_exercise/3.2.obj
+	@echo ... chapter3_exercise/3.2.i
+	@echo ... chapter3_exercise/3.2.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... stack/stack.obj
+	@echo ... stack/stack.i
+	@echo ... stack/stack.s
+	@echo ... tree/tree.obj
+	@echo ... tree/tree.i
+	@echo ... tree/tree.s
 .PHONY : help
 
 

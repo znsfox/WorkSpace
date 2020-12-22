@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd  ">
+
+<context:property-placeholder location="classpath:db.properties"/>
+
+<bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource">
+    <property name="driverClassName"    value="${mysql_driverClassName}"/>
+    <property name="username" value="${mysql_username}"/>
+    <property name="url" value="${mysql_url}" />
+    <property name="password" value="${mysql_password}" />
+
+    <property name="initialSize" value="${druid_initialSize}"/>
+    <property name="minIdle" value="${druid_minIdle}"/>
+    <property name="maxActive" value="${druid_maxActive}"/>
+
+<!--    config the timeout period for obtaining a connection-->
+    <property name="maxWait" value="${druid_maxWait}"/>
+
+<!--    sleep time during the running of idle connection collector thread-->
+    <property name="timeBetweenEvictionRunsMillis" value="${druid_timeBetweenEvictionRunsMillis}"/>
+    <property name="testWhileIdle" value="true"/>
+
+<!--    prevent unavailable connections-->
+    <property name="testOnBorrow" value="true"/>
+    <property name="testOnReturn" value="false"/>
+
+<!--    open Pscache and specify the size of Pscache on each connection-->
+    <property name="poolPreparedStatements" value="true"/>
+    <property name="maxPoolPreparedStatementPerConnectionSize" value="20"/>
+
+<!--    whether to automatically recycle timeout connections-->
+    <property name="removeAbandoned" value="true"/>
+    <property name="removeAbandonedTimeout" value="1800"/>
+
+<!--    statistics monitoring information-->
+    <property name="filters" value="stat"/>
+</bean>
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="dataSource" ref="dataSource"/>
+        <property name="configLocation" value="classpath:mybatis/mybatis-config.xml"/>
+        <property name="mapperLocations" value="classpath:mapper/*.xml"/>
+        <property name="typeAliasesPackage" value="com.fuzhu.entity"/>
+    </bean>
+
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+<!--        injecte sqlSessionFactory-->
+        <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"/>
+        <property name="basePackage" value="com.fuzhu.dao"/>
+    </bean>
+
+
+
+
+
+</beans>

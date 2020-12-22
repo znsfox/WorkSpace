@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fox/Desktop/WorkSpace/CLion/algorithm/backspace-string-compare.c
+stdbool.h
+-
+mem.h
+-
+stdio.h
+-
+malloc.h
+-
+

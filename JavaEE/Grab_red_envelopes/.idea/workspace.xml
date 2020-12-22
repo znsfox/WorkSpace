@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Grab_red_envelopes:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d55b023a-521e-4720-bd29-540e7542108e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CLion/C/ListTest.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/C/chapter3_exercise/3.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/C/fatal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/C/list.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/C/stack/stack.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/C/stack/stack.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/C/tree/Tree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/C/tree/tree.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/algorithm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/algorithm/.idea/algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/algorithm/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/algorithm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/algorithm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/algorithm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/algorithm/backspace-string-compare.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/algorithm/baseball-game.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/algorithm/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/algorithm/test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/synAna/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/synAna/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/synAna/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/synAna/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/synAna/.idea/synAna.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/synAna/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/syntacticAnalysis/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/syntacticAnalysis/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/syntacticAnalysis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/syntacticAnalysis/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/syntacticAnalysis/.idea/syntacticAnalysis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/syntacticAnalysis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLion/syntacticAnalysis/test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Grab_red_envelopes_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_no_aop_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_1_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_acl_5_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_5_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grab_red_envelopes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/config/RootConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/config/WebAppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/controller/UserRedPacketController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dao/RedPacketDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dao/UserRedPacketDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pojo/RedPacket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pojo/UserRedPacket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/service/RedPacketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/service/UserRedPacketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/service/impl/RedPacketServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/service/impl/UserRedPacketImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/RedPacket.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserRedPacket.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/grap.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/libraries/Maven__com_google_inject_guice_no_aop_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/libraries/Maven__org_testng_testng_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/libraries/Maven__org_yaml_snakeyaml_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/Redis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/java/com/example/demo/CoExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/java/com/example/demo/GetPersonInfoProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/java/com/example/demo/HelloWordApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/java/com/example/demo/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/java/com/example/demo/HelloWorldMvcController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/java/com/example/demo/controller/MVCDemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/java/com/example/demo/controller/TestValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/java/com/example/demo/entity/MyCustomConstraint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/java/com/example/demo/entity/MyCustomConstraintValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/java/com/example/demo/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/java/com/example/demo/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/resources/applicatio-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/resources/templates/example/thymeleaf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/resources/templates/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/resources/templates/mvcdemo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/main/resources/templates/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/test/java/com/example/demo/CoExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/test/java/com/example/demo/HelloWordApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/test/java/com/example/demo/MultiYmlDemoApplicatoinTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring Boot/Hello World/src/test/java/com/example/demo/propertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/artifacts/test_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__com_google_inject_guice_no_aop_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__commons_digester_commons_digester_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__commons_validator_commons_validator_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_1_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_mybatis_mybatis_3_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_security_spring_security_acl_5_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_5_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_spring_aop_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_spring_beans_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_spring_context_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_spring_core_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_spring_expression_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_spring_orm_5_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_spring_test_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_spring_tx_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_spring_web_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_testng_testng_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/libraries/Maven__org_yaml_snakeyaml_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/java/fox/controller/AttributeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/java/fox/controller/ParamsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/java/fox/controller/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/java/fox/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/java/fox/controller/ValidateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/java/fox/dao/RoleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/java/fox/interceptor/RoleInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/java/fox/pojo/PageParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/java/fox/pojo/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/java/fox/pojo/RoleParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/java/fox/pojo/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/java/fox/service/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/java/fox/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/java/fox/validator/TransactionValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/resources/mapper/RoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/web/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/web/WEB-INF/jsp/sessionAttributes.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/web/form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/web/params.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/web/request.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/web/response.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/web/validate.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/Test/web/validate1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaSE/coreJava/.idea/coreJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaSE/coreJava/Chapter8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaSE/coreJava/Chapter8/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaSE/coreJava/Chapter8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaSE/coreJava/Chapter8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaSE/coreJava/Chapter8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaSE/coreJava/Chapter8/Chapter8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaSE/coreJava/Chapter8/src/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaSE/coreJava/Chapter8/src/PairTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaSE/coreJava/Chapter8/src/PairTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/demo/bin/test.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/demo/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/demo/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercise/bin/maxSubArray.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/exercise/bin/maxSubArray.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercise/bin/test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/exercise/bin/test.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercise/maxSubArray.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/exercise/maxSubArray.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/exercise/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../C/exercise/test.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/C__.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/C__.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/C__.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/C__.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/C__.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/C__.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/C__.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/C__.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/C__.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/C__.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/C__.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/C__.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/C__.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/C__.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/C__.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/C__.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C++/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C++/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/C.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/C.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/C.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/C.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/C.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/C.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/C.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/C.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/C.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/C.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/C.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/C.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/C.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/C.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLion/C/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLion/C/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC/chapter15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC/chapter15/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blogs/Java/JavaEE知识点.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../blogs/Java/JavaEE知识点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blogs/Java/JavaSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../blogs/Java/JavaSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blogs/other.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../blogs/other.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blogs/一些在编程中用到的.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../blogs/一些在编程中用到的.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blogs/编程规划.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../blogs/编程规划.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Mybatis Mapper" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kUXyRYaZT3xlFNarcco4phjeSu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/jsp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fox\Desktop\WorkSpace\JavaEE\Grab_red_envelopes\web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fox\Desktop\WorkSpace\JavaEE\Grab_red_envelopes\web\WEB-INF\jsp" />
+      <recent name="C:\Users\fox\Desktop\WorkSpace\JavaEE\Grab_red_envelopes\web\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.371" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.371" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="Grab_red_envelopes:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Grab" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_371_Grab_red_envelopes" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53600" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Grab_red_envelopes:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.371" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Grab_red_envelopes:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Grab" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Grab_red_envelopes" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53600" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Grab_red_envelopes:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d55b023a-521e-4720-bd29-540e7542108e" name="Default Changelist" comment="" />
+      <created>1605756398008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605756398008</updated>
+      <workItem from="1605756399415" duration="2055000" />
+      <workItem from="1605768678221" duration="87000" />
+      <workItem from="1605768916048" duration="4654000" />
+      <workItem from="1605774375102" duration="7156000" />
+      <workItem from="1605853655976" duration="8901000" />
+      <workItem from="1606028959265" duration="5406000" />
+      <workItem from="1606034421864" duration="3400000" />
+      <workItem from="1606045203718" duration="391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="35" width="1119" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606035101879">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="96" y="35" width="1119" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1606035101879" />
+    <state x="271" y="108" width="831" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1605860877102">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="271" y="108" width="831" height="592" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1605860877102" />
+    <state x="223" y="48" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1605756586296">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="223" y="48" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.800@0.0.1280.800" timestamp="1605756586296" />
+    <state x="129" y="316" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1605860513044">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="129" y="316" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.800@0.0.1280.800" timestamp="1605860513044" />
+    <state x="418" y="155" key="FileChooserDialogImpl" timestamp="1606045512620">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="418" y="155" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1606045512620" />
+    <state width="847" height="192" key="GridCell.Tab.0.bottom" timestamp="1606037848050">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="847" height="192" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1606037848050" />
+    <state width="847" height="192" key="GridCell.Tab.0.center" timestamp="1606037848050">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="847" height="192" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1606037848050" />
+    <state width="847" height="192" key="GridCell.Tab.0.left" timestamp="1606037848050">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="847" height="192" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1606037848050" />
+    <state width="847" height="192" key="GridCell.Tab.0.right" timestamp="1606037848050">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="847" height="192" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1606037848050" />
+    <state width="847" height="192" key="GridCell.Tab.1.bottom" timestamp="1606037848051">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="847" height="192" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1606037848051" />
+    <state width="847" height="192" key="GridCell.Tab.1.center" timestamp="1606037848051">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="847" height="192" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1606037848051" />
+    <state width="847" height="192" key="GridCell.Tab.1.left" timestamp="1606037848051">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="847" height="192" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1606037848051" />
+    <state width="847" height="192" key="GridCell.Tab.1.right" timestamp="1606037848051">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="847" height="192" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1606037848051" />
+    <state width="847" height="192" key="GridCell.Tab.2.bottom" timestamp="1606037848051">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="847" height="192" key="GridCell.Tab.2.bottom/0.0.1280.800@0.0.1280.800" timestamp="1606037848051" />
+    <state width="847" height="192" key="GridCell.Tab.2.center" timestamp="1606037848051">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="847" height="192" key="GridCell.Tab.2.center/0.0.1280.800@0.0.1280.800" timestamp="1606037848051" />
+    <state width="847" height="192" key="GridCell.Tab.2.left" timestamp="1606037848051">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="847" height="192" key="GridCell.Tab.2.left/0.0.1280.800@0.0.1280.800" timestamp="1606037848051" />
+    <state width="847" height="192" key="GridCell.Tab.2.right" timestamp="1606037848051">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="847" height="192" key="GridCell.Tab.2.right/0.0.1280.800@0.0.1280.800" timestamp="1606037848051" />
+    <state width="847" height="192" key="GridCell.Tab.3.bottom" timestamp="1606037848051">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="847" height="192" key="GridCell.Tab.3.bottom/0.0.1280.800@0.0.1280.800" timestamp="1606037848051" />
+    <state width="847" height="192" key="GridCell.Tab.3.center" timestamp="1606037848051">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="847" height="192" key="GridCell.Tab.3.center/0.0.1280.800@0.0.1280.800" timestamp="1606037848051" />
+    <state width="847" height="192" key="GridCell.Tab.3.left" timestamp="1606037848051">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="847" height="192" key="GridCell.Tab.3.left/0.0.1280.800@0.0.1280.800" timestamp="1606037848051" />
+    <state width="847" height="192" key="GridCell.Tab.3.right" timestamp="1606037848051">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="847" height="192" key="GridCell.Tab.3.right/0.0.1280.800@0.0.1280.800" timestamp="1606037848051" />
+    <state x="171" y="55" key="Maven.ArtifactSearchDialog" timestamp="1605770539994">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="171" y="55" key="Maven.ArtifactSearchDialog/0.0.1280.800@0.0.1280.800" timestamp="1605770539994" />
+    <state x="160" y="17" key="NewModule_or_Project.wizard" timestamp="1606045502793">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="160" y="17" key="NewModule_or_Project.wizard/0.0.1280.800@0.0.1280.800" timestamp="1606045502793" />
+    <state x="162" y="79" key="SettingsEditor" timestamp="1606029026066">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="162" y="79" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1606029026066" />
+    <state x="304" y="123" width="672" height="678" key="search.everywhere.popup" timestamp="1606030926892">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="304" y="123" width="672" height="678" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1606030926892" />
+    <state x="183" y="0" key="spring file set editor" timestamp="1605860727906">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="183" y="0" key="spring file set editor/0.0.1280.800@0.0.1280.800" timestamp="1605860727906" />
+  </component>
+</project>

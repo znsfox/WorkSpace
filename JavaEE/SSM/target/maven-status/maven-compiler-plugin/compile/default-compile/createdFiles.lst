@@ -1,0 +1,4 @@
+com\fuzhu\entity\Score.class
+com\fuzhu\dao\ScoreDao.class
+com\fuzhu\service\ScoreService.class
+com\fuzhu\service\impl\ScoreServiceImpl.class
